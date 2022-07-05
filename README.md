@@ -1,4 +1,4 @@
-# Funiture API
+# Furniture API
 
 ## API documentation
 
