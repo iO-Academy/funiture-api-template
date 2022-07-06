@@ -128,7 +128,7 @@ This API only supports GET requests.
 
   **Optional:**
   
-  `unit` - unit of measure to provide dimensions in. Choose from: `mm`,`cm`,`in`,`ft`. Default is `mm`
+  `unit` - unit of measure to provide dimensions in. Choose from: `mm`,`cm`,`in`,`ft`. Default is `mm`  
   `currency` - currency unit to provide price in. Choose from: `GBP`,`USD`,`EUR`,`YEN`. Defualt is `GBP`
 
   **Example:**
