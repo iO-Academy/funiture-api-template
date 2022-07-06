@@ -3,7 +3,6 @@
 ## API documentation
 
 This API only supports GET requests.
-
 ### Return all product categories
 
 * **URL**
@@ -146,6 +145,7 @@ This API only supports GET requests.
     "message": "Successfully retrieved product",
     "data":
       {
+        "categoryId": 2,
         "width": 1517,
         "height": 2040,
         "depth": 1445,
