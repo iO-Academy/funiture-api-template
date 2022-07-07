@@ -68,7 +68,7 @@ This API only supports GET requests.
    
    **Optional:**
   
-  `currency` - currency unit to provide price in. Choose from: `GBP`,`USD`,`EUR`,`YEN`. Default is `GBP`
+  `currency` - currency unit to provide price in. Choose from: `GBP`,`USD`,`EUR`,`YEN`. Default is `GBP`  
   `instockonly` - `boolean` choose to only return in-stock products. Default is `0`
 
   **Example:**
