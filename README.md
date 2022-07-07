@@ -86,11 +86,13 @@ This API only supports GET requests.
     "data":
     [
         {
+          "id": 1,
           "price": "48.61",
           "stock": 8,
           "color": "Teal"
         },
         {
+          "id": 2,
           "price": "182.08",
           "stock": 2,
           "color": "Green"
